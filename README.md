@@ -1,14 +1,14 @@
 <div align="center">
     <p>
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=100&center=true&vCenter=true&width=435&lines=Hello!%20(%20%C2%B4%20%E2%96%BD%20`%20)" alt="Hello! ( ´ ▽ ` )">
+            <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=100&center=true&vCenter=true&width=435&lines=Welcome!%20(%20%C2%B4%20%E2%96%BD%20`%20)" alt="Welcome! ( ´ ▽ ` )">
         </a>
     </p>
 </div>
 
 ## About Me
 
-I'm Zhe-Yin, a student studying Information Technology at Nanyang Polytechnic in Singapore. I have a deep passion for programming and aspire to become a Software Developer. 
+I'm Zhe-Yin, a student studying Information Technology at Nanyang Polytechnic in Singapore. I have a deep passion for programming and aspire to become a Software Engineer. 
 
 [![Zhe-Yin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhe-Yin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,7 +20,7 @@ I'm Zhe-Yin, a student studying Information Technology at Nanyang Polytechnic in
 
 ## Interested in Learning!
 
-[![Skill Icons](https://skillicons.dev/icons?i=react,ts,swift,aws,redis&perline=10&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=react,ts,swift,aws,flutter,gcp,docker,rust,redis&perline=10&center=true)](https://skillicons.dev/)
 
 ## Socials
 
